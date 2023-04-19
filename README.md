@@ -12,5 +12,7 @@ How to Play?
 4. Keep in mind that you can only have up to 10 colors (the circles) on the canvas.
 
 License:
+
 Background Image: http://www.freepik.com
+
 Information: https://www.skillshare.com/en/blog/learn-how-to-mix-paint-an-expert-guide-to-mixing-colors/ 
